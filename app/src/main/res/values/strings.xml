@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">保醒通</string>
+    <string name="user_name">请输入手机号或者邮箱</string>
+    <string name="user_password">请输入密码</string>
+    <string name="Login">登录</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="register">注册</string>
+    <string name="mobile">请输入手机号</string>
+    <string name="nav_addBill">添加保险单</string>
+    <string name="nav_customers">查看我的保单</string>
+    <string name="nav_checkBill">查看待处理表单</string>
+    <string name="nav_self">个人中心</string>
+    <string name="nav_contact">联系我们</string>
+
+    <string name="name">客户姓名</string>
+    <string name="car_type">车型</string>
+    <string name="car_id">车牌号</string>
+    <string name="company">保险公司</string>
+    <string name="start_time">购买时间</string>
+    <string name="end_time">截止时间</string>
+    <string name="jqx">购买交强险</string>
+    <string name="jdclssx">购买机动车辆损失险</string>
+    <string name="dszrx">购买第三责任险</string>
+    <string name="dqx">购买盗抢险</string>
+    <string name="csryzr">购买车上人员责任险</string>
+    <string name="fdjssx">购买发动机涉水损失险</string>
+    <string name="zrssx">购买自燃损失险</string>
+    <string name="blddpsx">购买玻璃单独破碎险</string>
+    <string name="cshhssx">购买车身划痕损失险</string>
+    <string name="bjmpltyx">购买不计免赔率特约险</string>
+    <string name="zwx">购买座位险</string>
+    <string name="fee">保险费用</string>
+    <string name="fact_fee">实际保险费用</string>
+    <string-array name="choose">
+        <item>是</item>
+        <item>否</item>
+    </string-array>
+</resources>
